@@ -1,5 +1,2 @@
-a = 3
-
-b = 200
-
-print (a * b)
+name = "Your Name"
+print("My name is", name)
